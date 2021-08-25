@@ -1,6 +1,6 @@
 numpy==1.18.2
 pandas==1.0.3
-tensorflow==2.2.0rc2
+tensorflow==2.5.1
 flask #latest version of flask
 #turtle
 #decimal                
